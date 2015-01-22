@@ -21,10 +21,10 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"istt\\bizgod\\": ""
+			"istt\\example\\": ""
 		}
 	},
 	"extra": {
-        "bootstrap": "istt\\bizgod\\Bootstrap"
+        "bootstrap": "istt\\example\\Bootstrap"
     }
 }
